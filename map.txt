@@ -1,0 +1,28 @@
+warehouse_chatbot/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── config.py
+│   ├── database.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── product.py
+│   │   ├── inventory.py
+│   │   └── procedure.py
+│   ├── api/
+│   │   ├── __init__.py
+│   │   ├── chat.py
+│   │   ├── inventory.py
+│   │   └── search.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── ai_service.py
+│   │   ├── embedding_service.py
+│   │   └── search_service.py
+│   └── utils/
+│       ├── __init__.py
+│       └── vietnamese_processing.py
+├── requirements.txt
+├── docker-compose.yml
+└── README.md
+

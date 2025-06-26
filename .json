@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "code": "VT001",
+      "name": "Vải cotton trắng 90cm",
+      "category": "Vải",
+      "keywords": ["vải", "cotton", "trắng", "90cm", "cotton trắng"],
+      "common_questions": [
+        "Vải cotton trắng 90cm còn không?",
+        "Mã VT001 ở đâu?",
+        "Tìm vải cotton trắng"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "title": "Kiểm tra nguyên phụ liệu đầu ca",
+      "steps": [
+        "Kiểm tra phiếu nhập kho",
+        "Kiểm tra ngoại quan sản phẩm",
+        "Đo kiểm kích thước",
+        "Ghi nhận kết quả"
+      ],
+      "keywords": ["kiểm tra", "đầu ca", "nguyên liệu", "phụ liệu"]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Hàng bị dư thừa thì phải làm gì?",
+      "answer": "Khi phát hiện hàng dư thừa: 1) Kiểm tra lại số lượng, 2) Báo cáo cho trưởng ca, 3) Tạo phiếu điều chỉnh, 4) Cập nhật hệ thống"
+    }
+  ]
+}

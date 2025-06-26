@@ -1,0 +1,44 @@
+8. Kế hoạch triển khai
+Phase 1 (Tuần 1-2): Cơ sở hạ tầng
+
+✅ Thiết lập database Supabase
+✅ Cài đặt Ollama và model LLM
+✅ Phát triển API cơ bản
+
+Phase 2 (Tuần 3-4): Tính năng cốt lõi
+
+✅ Tích hợp LangChain và embedding
+✅ Phát triển giao diện Flet
+✅ Tính năng tìm kiếm cơ bản
+✅ Xử lý câu hỏi tiếng Việt
+
+Phase 3 (Tuần 5-6): Tối ưu hóa
+
+✅ Fine-tuning model cho domain warehouse
+✅ Tối ưu hóa tốc độ response
+✅ Thêm tính năng gợi ý thông minh
+✅ Testing và debugging
+
+Phase 4 (Tuần 7-8): Production
+
+✅ Triển khai production
+✅ Monitoring và logging
+✅ User training
+✅ Documentation hoàn thiện
+
+9. Chi phí ước tính
+9.1 Chi phí hạ tầng (tháng)
+
+Supabase Pro: $25/tháng
+Server VPS: $50-100/tháng (4GB RAM, 2 CPU)
+Domain & SSL: $10/tháng
+Backup storage: $10/tháng
+Total: ~$95-145/tháng
+
+9.2 Chi phí phát triển (one-time)
+
+Backend development: 40-60 giờ
+Frontend development: 30-40 giờ
+AI/ML integration: 20-30 giờ
+Testing & deployment: 15-20 giờ
+Total: 105-150 giờ phát triển
