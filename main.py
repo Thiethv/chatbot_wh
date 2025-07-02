@@ -55,7 +55,7 @@ class AdvancedWarehouseChatbot:
         header = ft.Container(
             content=ft.Row([
                 ft.Icon(ft.Icons.WAREHOUSE, size=40, color=ft.Colors.BLUE),
-                ft.Text("AI Assistant", size=36, weight=ft.FontWeight.BOLD),
+                ft.Text("Warehouse AI Assistant", size=36, weight=ft.FontWeight.BOLD),
                 ft.Container(expand=True)
             ]),
             padding=20,
